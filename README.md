@@ -1,17 +1,10 @@
-# ИСТОРИЯ
-
-1. Первая версия настоящего проекта находится [здесь](https://github.com/w4sp-book/w4sp-lab/wiki/Lab-Installation).
-2. Вторая версия настоящего проекта находится [здесь](https://medium.com/@vaibjav2raj/setting-up-the-w4sp-lab-in-2020-d4df6a3d2a5e).
-Во второй версии настойщий проект был переписан с python2 на python3.
-3. Третье версией является проект, в котором вы сейчас находитесь.
-4. 
-ANTECEDENTES.
+# ANTECEDENTES.
 
     La primera versión de este proyecto puede consultarse [aquí](https://github.com/w4sp-book/w4sp-lab/wiki/Lab-Installation).
-    La segunda versión del presente proyecto se puede encontrar [aquí](https://medium.com/@vaibjav2raj/setting-up-the-w4sp-lab-in-2020-d4df6a3d2a5e). En la segunda versión, el presente proyecto fue reescrito de python2 a python3.
+    La segunda versión del presente proyecto se puede encontrar [aquí](https://medium.com/@vaibjav2raj/setting-up-the-w4sp-lab-in-2020-d4df6a3d2a5e).      En la segunda versión, el presente proyecto fue reescrito de python2 a python3.
     La tercera versión es el proyecto en el que se encuentra actualmente.
 
-INTRODUCCIÓN.
+#  INTRODUCCIÓN.
 
 Este es el entorno de laboratorio para el libro Wireshark for Security Professionals: Using Wireshark and the Metasploit Framework. Puedes referirte al Capítulo 2 de ese libro para una fácil referencia al laboratorio. El laboratorio está construido sobre Docker y Kali Linux y proporciona una red realista con numerosos servicios útiles para aprender los fundamentos de la seguridad utilizando Wireshark.
 Instalación
